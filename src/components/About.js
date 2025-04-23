@@ -28,10 +28,12 @@ export default function About() {
             <Fade cascade triggerOnce direction="left">
             <div className="about__header">
               <div className="about__header__content">
-                <h2 className="text--subtitle text-center text-uppercase text--white">5207 Sale Ave</h2>
-                <h4 className="text--lead text-white">South of 101. South of Ventura Blvd. South of the Boulevard</h4>
+                <h2 className="text--subtitle text-center text-uppercase text--white">5204 Bedford Ave</h2>
+                <h4 className="text--lead text-white">
+                  W Slauson Avenue - S Sherbourne Drive - W 57th Street to Bedford Ave
+                </h4>
                 <p className='text--body text-center text-white mb-5'>
-                  This Woodland Hills beauty knows how to bring the charm: cozy yet spacious, classic yet updated, peaceful yet perfect for entertaining.
+                  Exclusive Upper Ladera Heights Neighborhood! First time on the market in 20 years! Welcome to 5204 Bedford Ave, a luxurious single-family residence in Los Angeles, CA, spanning an expansive 4,300 square feet of living space.
                 </p>
                 <a className="btn btn--secondary" target="__blank" href="https://wa.me/+13106334350?text=Hi,%20I'm%20interested%20in%20the%20property%20at%205207%20Sale%20Ave,%20Woodland%20Hills.%20Can%20you%20share%20more%20details%20or%20schedule%20a%20viewing?">CLICK HERE TO CONTACT</a>
               </div>
@@ -55,29 +57,29 @@ export default function About() {
                       <div className="boxes__icon">
                         <FaBed size={45}/>
                       </div>
-                      <h4 className="text--lead boxes__title">Beds: 3</h4>
-                      <p className='text--body boxes__content'>Baths: 2</p>
+                      <h4 className="text--lead boxes__title">Beds: 6</h4>
+                      <p className='text--body boxes__content'>Baths: 4</p>
                     </li>
                     <li className="boxes__item">
                       <div className="boxes__icon">
                         <FaRulerCombined size={45}/>
                       </div>
-                      <h4 className="text--lead boxes__title">SqFt: 1,366</h4>
-                      <p className='text--body boxes__content'>MLS#: 24-472029</p>
+                      <h4 className="text--lead boxes__title">SqFt: 4,300</h4>
+                      <p className='text--body boxes__content'>MLS#: 24-454149</p>
                     </li>
                     <li className="boxes__item">
                       <div className="boxes__icon">
                         <FaCar size={45}/>
                       </div>
-                      <h4 className="text--lead boxes__title">Parking Spaces: 2</h4>
-                      <p className='text--body boxes__content'>Circular Driveway, Attached</p>
+                      <h4 className="text--lead boxes__title">Parking Spaces: 4</h4>
+                      <p className='text--body boxes__content'>Attached, Garage - Parking for Guests</p>
                     </li>
                     <li className="boxes__item">
                       <div className="boxes__icon">
                         <FaDollarSign size={45}/>
                       </div>
-                      <h4 className="text--lead boxes__title">Price:</h4>
-                      <p className='text--body boxes__content'>$1,060,000</p>
+                      <h4 className="text--lead boxes__title">Price: $2,125,000</h4>
+                      <p className='text--body boxes__content'>Price/SqFt: $494.19</p>
                     </li>
                   </ul>
                 </div>
@@ -94,10 +96,10 @@ export default function About() {
             <Fade cascade triggerOnce direction="left">
             <div className="about__header">
               <div className="about__header__content">
-                <h2 className="text--subtitle text-center text-uppercase text--white">53 Woodland Hills</h2>
-                <h4 className="text--lead text-white">MLS# 24-472029</h4>
+                <h2 className="text--subtitle text-center text-uppercase text--white">Los Angeles CA 90056</h2>
+                <h4 className="text--lead text-white">MLS# 24-454149</h4>
                 <p className='text--body text-center text-white mb-5'>
-                  Built in 1956, this home is a testament to timeless California living, nestled south of Ventura Boulevard in a highly coveted and desirable area. It's a space where the nostalgia of a simpler era blends seamlessly with the comforts of today. Step inside, and you're greeted by sunlit rooms that exude warmth and character.
+                  This stunning detached house boasts 6 spacious bedrooms and 4 meticulously renovated bathrooms, offering a harmonious blend of elegance and modern convenience. Step inside to find architectural elements that include built-ins, offering 2 fireplaces one is a breathtaking double sided fireplace, and exposed brick walls that add character to the soaring high-ceilings.
                 </p>
               </div>
               <div className="about__content text-center">
