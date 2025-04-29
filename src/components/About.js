@@ -33,9 +33,10 @@ export default function About() {
                   W Slauson Avenue - S Sherbourne Drive - W 57th Street to Bedford Ave
                 </h4>
                 <p className='text--body text-center text-white mb-5'>
+                  <strong>Now’s the time — take advantage of our limited-time seller services offer!</strong><br /><br />
                   Exclusive Upper Ladera Heights Neighborhood! First time on the market in 20 years! Welcome to 5204 Bedford Ave, a luxurious single-family residence in Los Angeles, CA, spanning an expansive 4,300 square feet of living space.
                 </p>
-                <a className="btn btn--secondary" target="__blank" href="https://wa.me/+13106334350?text=Hi,%20I'm%20interested%20in%20the%20property%20at%205207%20Sale%20Ave,%20Woodland%20Hills.%20Can%20you%20share%20more%20details%20or%20schedule%20a%20viewing?">CLICK HERE TO CONTACT</a>
+                <a className="btn btn--secondary" target="__blank" href="sms:+13106334350?body=Hi%2C%20I'm%20interested%20in%20the%20property%205204%20Bedford%20Ave.%20Please%20contact%20me.">CLICK HERE TO CONTACT</a>
               </div>
             </div>
             </Fade>
@@ -97,13 +98,12 @@ export default function About() {
             <div className="about__header">
               <div className="about__header__content">
                 <h2 className="text--subtitle text-center text-uppercase text--white">Los Angeles CA 90056</h2>
-                <h4 className="text--lead text-white">MLS# 24-454149</h4>
                 <p className='text--body text-center text-white mb-5'>
                   This stunning detached house boasts 6 spacious bedrooms and 4 meticulously renovated bathrooms, offering a harmonious blend of elegance and modern convenience. Step inside to find architectural elements that include built-ins, offering 2 fireplaces one is a breathtaking double sided fireplace, and exposed brick walls that add character to the soaring high-ceilings.
                 </p>
               </div>
               <div className="about__content text-center">
-                <a className="btn btn--secondary" target="__blank" href="https://wa.me/+13106334350?text=Hi,%20I'm%20interested%20in%20the%20property%20at%205207%20Sale%20Ave,%20Woodland%20Hills.%20Can%20you%20share%20more%20details%20or%20schedule%20a%20viewing?">PRIVATE SHOWING</a>
+                <a className="btn btn--secondary" target="__blank" href="sms:+13106334350?body=Hi%2C%20I'm%20interested%20in%20the%20property%205204%20Bedford%20Ave.%20Please%20contact%20me.">Ready to Sell? Let’s Talk!</a>
               </div>
             </div>
             </Fade>

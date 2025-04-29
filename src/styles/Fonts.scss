@@ -66,6 +66,9 @@ span {
         &--secondary {
             color: $color-secondary;
         }
+        &--white {
+            background-color: $color-white;
+        }
     }
 }
 
