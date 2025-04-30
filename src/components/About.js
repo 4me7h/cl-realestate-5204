@@ -28,12 +28,11 @@ export default function About() {
             <Fade cascade triggerOnce direction="left">
             <div className="about__header">
               <div className="about__header__content">
-                <h2 className="text--subtitle text-center text-uppercase text--white">5204 Bedford Ave</h2>
                 <h4 className="text--lead text-white">
-                  W Slauson Avenue - S Sherbourne Drive - W 57th Street to Bedford Ave
+                  <strong>Now’s the time — take advantage of our limited-time seller services offer!</strong>
                 </h4>
                 <p className='text--body text-center text-white mb-5'>
-                  <strong>Now’s the time — take advantage of our limited-time seller services offer!</strong><br /><br />
+                  W Slauson Avenue - S Sherbourne Drive - W 57th Street to Bedford Ave<br />
                   Exclusive Upper Ladera Heights Neighborhood! First time on the market in 20 years! Welcome to 5204 Bedford Ave, a luxurious single-family residence in Los Angeles, CA, spanning an expansive 4,300 square feet of living space.
                 </p>
                 <a className="btn btn--secondary" target="__blank" href="sms:+13106334350?body=Hi%2C%20I'm%20interested%20in%20the%20property%205204%20Bedford%20Ave.%20Please%20contact%20me.">CLICK HERE TO CONTACT</a>
