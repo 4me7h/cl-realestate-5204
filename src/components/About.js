@@ -102,7 +102,7 @@ export default function About() {
                 </p>
               </div>
               <div className="about__content text-center">
-                <a className="btn btn--secondary" target="__blank" href="sms:+13106334350?body=Hi%2C%20I'm%20interested%20in%20the%20property%205204%20Bedford%20Ave.%20Please%20contact%20me.">Ready to Sell? Let’s Talk!</a>
+                <a className="btn btn--secondary" target="__blank" href="sms:+13106334350?body=Hi%2C%20I'm%20interested%20in%20the%20property%205204%20Bedford%20Ave.%20Please%20contact%20me.">LEARN HOW TO BUY OR SELL YOUR NEXT HOME!</a>
               </div>
             </div>
             </Fade>
